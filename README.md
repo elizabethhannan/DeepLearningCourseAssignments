@@ -7,3 +7,6 @@ Course 1 (completed!)
 
 Course 2:
   Assignments 1, 2, 3
+  
+Course 3:
+  Completed all quizzes
